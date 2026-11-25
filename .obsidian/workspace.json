@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "f2d92e663ad48f07",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e98670334e00b5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33c416b2ea4a6b7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/Unit 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unit 6"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ed915faf3b3f5a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae41b5b2a4c671ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea25e01ee9332fd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d1267de9ed7da66c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ffbd009565da739e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "994daa654a6bab97",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0e3889147cfa7f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5c95389b58f878b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Interview/CN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ca40684be4381f86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "7138453672d29d3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "12ac01c7682dfbdd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7d1d83fe50239ff6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DSA Interview/20 Bit Manipulation/00 Bit Manipulation Index.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "b453d6955cdb09d7",
+            "type": "leaf",
+            "state": {
+              "type": "opencode-terminal",
+              "state": {},
+              "icon": "terminal",
+              "title": "Opencode"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 465.43450927734375,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-importer:Open Importer": false,
+      "opencode:Opencode terminal": false,
+      "opencode:Opencode conversations": false
+    }
+  },
+  "active": "33c416b2ea4a6b7d",
+  "lastOpenFiles": [
+    "AWS/Unit 1.md",
+    "AWS/Unit 3.md",
+    "AWS/Unit 6.md",
+    "AWS/Unit 2.md",
+    "AWS/Unit 5.md",
+    "AWS/Unit 4.md",
+    "Java-Backend-Interview-Preparation/04-Spring/10-Spring-Boot.md",
+    "AWS",
+    "Java-Backend-Interview-Preparation/04-Spring/09-Spring-Framework.md",
+    "Java-Backend-Interview-Preparation/03-Concurrency/08-Multithreading-and-Concurrency.md",
+    "Java-Backend-Interview-Preparation/02-Collections/07-Collections-Framework.md",
+    "Java-Backend-Interview-Preparation/01-Core-Java/06-JVM-Memory-and-Garbage-Collection.md",
+    "Java-Backend-Interview-Preparation/01-Core-Java/05-Java-8-Features-and-Streams.md",
+    "Java-Backend-Interview-Preparation/01-Core-Java/04-Generics-and-Advanced-Java.md",
+    "Java-Backend-Interview-Preparation/README.md",
+    "Java-Backend-Interview-Preparation/01-Core-Java/03-Exception-Handling.md",
+    "Java-Backend-Interview-Preparation/01-Core-Java/02-Strings-and-Object-Handling.md",
+    "Java-Backend-Interview-Preparation/01-Core-Java/01-Java-Fundamentals-and-OOP.md",
+    "DSA/Binary Search/README.md",
+    "Java-Backend-Interview-Preparation/12-Coding-Interview",
+    "Java-Backend-Interview-Preparation/11-Scenario-Based-Questions",
+    "Java-Backend-Interview-Preparation/10-System-Design",
+    "Java-Backend-Interview-Preparation/09-Cloud",
+    "Java-Backend-Interview-Preparation/08-Redis-and-Caching",
+    "Java-Backend-Interview-Preparation/07-Microservices-and-Kafka",
+    "Java-Backend-Interview-Preparation/06-Database-and-JPA",
+    "Java-Backend-Interview-Preparation/05-Spring-Security",
+    "Java-Backend-Interview-Preparation/04-Spring",
+    "DSA/DP/README.md",
+    "Interview/CN.md",
+    "DSA/Arrays/README.md",
+    "Links/IMP.md",
+    "DSA Interview/00 Dashboard/Weekly Revision Template.md",
+    "DSA Interview/00 Dashboard/Revision Tracker.md",
+    "DSA Interview/00 Dashboard/Pattern Recognition Guide.md",
+    "DSA Interview/00 Dashboard/Java Collections Reference.md"
+  ]
+}

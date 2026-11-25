@@ -4,39 +4,39 @@ Top 75 LeetCode Dynamic Programming (DP) problems for Java DSA interview prepara
 
 ## Table of Contents
 
-- [Easy — 15 Questions](#easy--15-questions)
-- [Medium — 40 Questions](#medium--40-questions)
+- [Easy ï¿½ 15 Questions](#easy--15-questions)
+- [Medium ï¿½ 40 Questions](#medium--40-questions)
   - [A. 1D DP and Decision-Based DP](#a-1d-dp-and-decision-based-dp)
   - [B. Grid DP and Path Problems](#b-grid-dp-and-path-problems)
   - [C. Subsequences, LIS and Partitioning](#c-subsequences-lis-and-partitioning)
   - [D. String DP](#d-string-dp)
   - [E. Stock, Interval and Tree DP](#e-stock-interval-and-tree-dp)
-- [Hard — 20 Questions](#hard--20-questions)
+- [Hard ï¿½ 20 Questions](#hard--20-questions)
 - [Priority Recommendations](#priority-recommendations)
 - [DP Patterns to Master](#dp-patterns-to-master)
 - [Recommended Solving Order](#recommended-solving-order)
 
-## Easy — 15 Questions
+## Easy ï¿½ 15 Questions
 
-| # | Problem | Main Concept | LeetCode Link |
-|---|---------|--------------|---------------|
-| 1 | Fibonacci Number | Basic 1D DP | [Link](https://leetcode.com/problems/fibonacci-number/) |
-| 2 | Climbing Stairs | 1D DP | [Link](https://leetcode.com/problems/climbing-stairs/) |
-| 3 | Min Cost Climbing Stairs | Minimum-cost DP | [Link](https://leetcode.com/problems/min-cost-climbing-stairs/) |
-| 4 | N-th Tribonacci Number | Multiple previous states | [Link](https://leetcode.com/problems/n-th-tribonacci-number/) |
-| 5 | Maximum Subarray | Kadane's algorithm / DP | [Link](https://leetcode.com/problems/maximum-subarray/) |
-| 6 | Pascal's Triangle | State from previous row | [Link](https://leetcode.com/problems/pascals-triangle/) |
-| 7 | Pascal's Triangle II | Space-optimized DP | [Link](https://leetcode.com/problems/pascals-triangle-ii/) |
-| 8 | Range Sum Query – Immutable | Prefix sums | [Link](https://leetcode.com/problems/range-sum-query-immutable/) |
-| 9 | Counting Bits | Bitwise DP | [Link](https://leetcode.com/problems/counting-bits/) |
-| 10 | Is Subsequence | Two pointers / DP | [Link](https://leetcode.com/problems/is-subsequence/) |
-| 11 | Unique Paths | Grid DP | [Link](https://leetcode.com/problems/unique-paths/) |
-| 12 | Unique Paths II | Grid DP with obstacles | [Link](https://leetcode.com/problems/unique-paths-ii/) |
-| 13 | Minimum Path Sum | Grid minimum-cost DP | [Link](https://leetcode.com/problems/minimum-path-sum/) |
-| 14 | Triangle | Bottom-up DP | [Link](https://leetcode.com/problems/triangle/) |
-| 15 | Best Time to Buy and Sell Stock | State tracking / DP | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| #   | Problem                         | Main Concept             | LeetCode Link                                                          |
+| --- | ------------------------------- | ------------------------ | ---------------------------------------------------------------------- |
+| 1   | Fibonacci Number                | Basic 1D DP              | [Link](https://leetcode.com/problems/fibonacci-number/)                |
+| 2   | Climbing Stairs                 | 1D DP                    | [Link](https://leetcode.com/problems/climbing-stairs/)                 |
+| 3   | Min Cost Climbing Stairs        | Minimum-cost DP          | [Link](https://leetcode.com/problems/min-cost-climbing-stairs/)        |
+| 4   | N-th Tribonacci Number          | Multiple previous states | [Link](https://leetcode.com/problems/n-th-tribonacci-number/)          |
+| 5   | Maximum Subarray                | Kadane's algorithm / DP  | [Link](https://leetcode.com/problems/maximum-subarray/)                |
+| 6   | Pascal's Triangle               | State from previous row  | [Link](https://leetcode.com/problems/pascals-triangle/)                |
+| 7   | Pascal's Triangle II            | Space-optimized DP       | [Link](https://leetcode.com/problems/pascals-triangle-ii/)             |
+| 8   | Range Sum Query ï¿½ Immutable     | Prefix sums              | [Link](https://leetcode.com/problems/range-sum-query-immutable/)       |
+| 9   | Counting Bits                   | Bitwise DP               | [Link](https://leetcode.com/problems/counting-bits/)                   |
+| 10  | Is Subsequence                  | Two pointers / DP        | [Link](https://leetcode.com/problems/is-subsequence/)                  |
+| 11  | Unique Paths                    | Grid DP                  | [Link](https://leetcode.com/problems/unique-paths/)                    |
+| 12  | Unique Paths II                 | Grid DP with obstacles   | [Link](https://leetcode.com/problems/unique-paths-ii/)                 |
+| 13  | Minimum Path Sum                | Grid minimum-cost DP     | [Link](https://leetcode.com/problems/minimum-path-sum/)                |
+| 14  | Triangle                        | Bottom-up DP             | [Link](https://leetcode.com/problems/triangle/)                        |
+| 15  | Best Time to Buy and Sell Stock | State tracking / DP      | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 
-## Medium — 40 Questions
+## Medium ï¿½ 40 Questions
 
 ### A. 1D DP and Decision-Based DP
 
@@ -103,7 +103,7 @@ Top 75 LeetCode Dynamic Programming (DP) problems for Java DSA interview prepara
 | 54 | House Robber III | Tree DP | [Link](https://leetcode.com/problems/house-robber-iii/) |
 | 55 | Maximum Length of Pair Chain | DP / greedy | [Link](https://leetcode.com/problems/maximum-length-of-pair-chain/) |
 
-## Hard — 20 Questions
+## Hard ï¿½ 20 Questions
 
 | # | Problem | Main Concept | LeetCode Link |
 |---|---------|--------------|---------------|
@@ -149,10 +149,10 @@ Top 75 LeetCode Dynamic Programming (DP) problems for Java DSA interview prepara
 
 ## Recommended Solving Order
 
-1. **Days 1–3:** Basic 1D DP and grid DP
-2. **Days 4–6:** House Robber, Coin Change, and knapsack
-3. **Days 7–9:** LIS and string DP
-4. **Days 10–11:** Stock DP, tree DP, and interval DP
+1. **Days 1ï¿½3:** Basic 1D DP and grid DP
+2. **Days 4ï¿½6:** House Robber, Coin Change, and knapsack
+3. **Days 7ï¿½9:** LIS and string DP
+4. **Days 10ï¿½11:** Stock DP, tree DP, and interval DP
 5. **Days 12 onward:** Hard DP, bitmask DP, and mixed interview problems
 
 **For each problem, try to identify these four things before coding:**
